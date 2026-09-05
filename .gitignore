@@ -1,0 +1,23 @@
+# Maven
+target/
+*.class
+
+# Credentials and local configuration
+.env
+.env.*
+application-local.properties
+
+# IDEs
+.vscode/
+.idea/
+.settings/
+.classpath
+.project
+*.iml
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
